@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T16:05:29.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="xMFz22UKIt_nYLBBdjdt" version="17.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-04T16:06:47.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="3ExI_kPtn88EyR_xI9UY" version="17.4.0" type="github" pages="4">
   <diagram id="b0Tjl1qEEuP9wBJ00qm7" name="Page-1">
     <mxGraphModel dx="1558" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -496,12 +496,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nOdprY5s0mfrZkxO-eZL" name="Page-4">
-    <mxGraphModel dx="925" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2324" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ehec-wgfQYLrHo-Yimqd-1" value="Shopkeeper" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="60" width="60" height="2290" as="geometry" />
+          <mxGeometry x="60" width="60" height="940" as="geometry" />
         </mxCell>
         <mxCell id="Ehec-wgfQYLrHo-Yimqd-17" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="Ehec-wgfQYLrHo-Yimqd-1" target="Ehec-wgfQYLrHo-Yimqd-5">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -510,7 +510,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ehec-wgfQYLrHo-Yimqd-5" value="Login" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="200" width="100" height="2280" as="geometry" />
+          <mxGeometry x="200" width="100" height="930" as="geometry" />
         </mxCell>
         <mxCell id="Ehec-wgfQYLrHo-Yimqd-26" value="Manage Medicine Details" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="Ehec-wgfQYLrHo-Yimqd-5" target="Ehec-wgfQYLrHo-Yimqd-14">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -537,7 +537,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ehec-wgfQYLrHo-Yimqd-13" value="Pharmacy Maanagement" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="363.5" width="100" height="2280" as="geometry" />
+          <mxGeometry x="363.5" width="100" height="930" as="geometry" />
         </mxCell>
         <mxCell id="Ehec-wgfQYLrHo-Yimqd-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Ehec-wgfQYLrHo-Yimqd-13">
           <mxGeometry x="45.5" y="80" width="10" height="40" as="geometry" />
@@ -573,7 +573,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ehec-wgfQYLrHo-Yimqd-14" value="Medicine Management" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="550" width="100" height="2290" as="geometry" />
+          <mxGeometry x="550" width="100" height="940" as="geometry" />
         </mxCell>
         <mxCell id="Ehec-wgfQYLrHo-Yimqd-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Ehec-wgfQYLrHo-Yimqd-14">
           <mxGeometry x="45" y="270" width="10" height="60" as="geometry" />
@@ -606,7 +606,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ehec-wgfQYLrHo-Yimqd-15" value="Stock Management" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="727" width="100" height="2290" as="geometry" />
+          <mxGeometry x="727" width="100" height="940" as="geometry" />
         </mxCell>
         <mxCell id="Ehec-wgfQYLrHo-Yimqd-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Ehec-wgfQYLrHo-Yimqd-15">
           <mxGeometry x="45" y="400" width="10" height="80" as="geometry" />
@@ -639,7 +639,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ehec-wgfQYLrHo-Yimqd-16" value="Vendor Management" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="910" width="100" height="2290" as="geometry" />
+          <mxGeometry x="910" width="100" height="930" as="geometry" />
         </mxCell>
         <mxCell id="GCzJUe3o0H06BNs_1TBN-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Ehec-wgfQYLrHo-Yimqd-16">
           <mxGeometry x="45" y="505" width="10" height="80" as="geometry" />
@@ -681,7 +681,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GCzJUe3o0H06BNs_1TBN-19" value="Inventory&amp;nbsp;&lt;br&gt;management" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1080" width="100" height="2280" as="geometry" />
+          <mxGeometry x="1080" width="100" height="940" as="geometry" />
         </mxCell>
         <mxCell id="GCzJUe3o0H06BNs_1TBN-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="GCzJUe3o0H06BNs_1TBN-19">
           <mxGeometry x="45" y="650" width="10" height="80" as="geometry" />
