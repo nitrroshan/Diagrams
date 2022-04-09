@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-09T18:04:23.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="i-4827-KdoS0KrZK9QOy" version="17.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-09T18:11:23.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="jsDHD1tUO7pVFJiNHFtN" version="17.4.0" type="github" pages="4">
   <diagram id="ElCQLWlFHMuAXOmdIf8C" name="Page-1">
     <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1104,6 +1104,176 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="980" y="480" as="sourcePoint" />
             <mxPoint x="1030" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gohEXK4LVOrjpe62Bltq" name="Page-4">
+    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--1" value="Shopkeeper" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" width="60" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--2" value="User Credentials" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="NRYGSTEQKvx6gvE7w4n--1" target="NRYGSTEQKvx6gvE7w4n--3">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="30" y="80" as="sourcePoint" />
+            <mxPoint x="110" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--3" value="Login" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" width="100" height="930" as="geometry" />
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--4" value="Manage Medicine Details" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="NRYGSTEQKvx6gvE7w4n--3" target="NRYGSTEQKvx6gvE7w4n--9">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="280" as="sourcePoint" />
+            <mxPoint x="130" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--5" value="Manage order Details" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="NRYGSTEQKvx6gvE7w4n--3" target="NRYGSTEQKvx6gvE7w4n--14">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="410" as="sourcePoint" />
+            <mxPoint x="130" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--6" value="Manage Vendor Details" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="NRYGSTEQKvx6gvE7w4n--3" target="NRYGSTEQKvx6gvE7w4n--19">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="520" as="sourcePoint" />
+            <mxPoint x="130" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--7" value="Manage Customer Details" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" edge="1" parent="NRYGSTEQKvx6gvE7w4n--3" target="NRYGSTEQKvx6gvE7w4n--24">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="50" y="660" as="sourcePoint" />
+            <mxPoint x="130" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="NRYGSTEQKvx6gvE7w4n--3">
+          <mxGeometry x="45" y="60" width="10" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--9" value="Medicine Management" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="550" width="100" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="NRYGSTEQKvx6gvE7w4n--9">
+          <mxGeometry x="45" y="270" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--11" value="List/Delete&lt;br&gt;Medicine" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="NRYGSTEQKvx6gvE7w4n--9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="320" />
+            </Array>
+            <mxPoint x="50" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--12" value="Add/Edit&lt;br&gt;Medicine" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="NRYGSTEQKvx6gvE7w4n--9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="70" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="70" />
+            </Array>
+            <mxPoint x="50" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--13" value="Save/Update&lt;br&gt;Medicine" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="NRYGSTEQKvx6gvE7w4n--9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="150" />
+            </Array>
+            <mxPoint x="50" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--14" value="Order Management" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="727" width="100" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="NRYGSTEQKvx6gvE7w4n--14">
+          <mxGeometry x="45" y="400" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--16" value="Add/Edit&lt;br&gt;Order" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="NRYGSTEQKvx6gvE7w4n--14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="44" y="80" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="74" y="80" />
+            </Array>
+            <mxPoint x="49" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--17" value="Save/Update&lt;br&gt;Order" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="NRYGSTEQKvx6gvE7w4n--14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="150" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="150" />
+            </Array>
+            <mxPoint x="50" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--18" value="List/Delete&lt;br&gt;Order" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="NRYGSTEQKvx6gvE7w4n--14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="210" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="75" y="210" />
+            </Array>
+            <mxPoint x="50" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--19" value="Vendor Management" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="910" width="100" height="930" as="geometry" />
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="NRYGSTEQKvx6gvE7w4n--19">
+          <mxGeometry x="45" y="505" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--21" value="Add/Edit&lt;br&gt;Vendor" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950" y="70" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="980" y="70" />
+            </Array>
+            <mxPoint x="955" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--22" value="Save/Update&lt;br&gt;Vendor" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="951" y="140" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="981" y="140" />
+            </Array>
+            <mxPoint x="956" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--23" value="List/Delete&lt;br&gt;Vendor" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="951" y="200" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="981" y="200" />
+            </Array>
+            <mxPoint x="956" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--24" value="Customer&amp;nbsp;&lt;br&gt;management" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1080" width="100" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--25" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="NRYGSTEQKvx6gvE7w4n--24">
+          <mxGeometry x="45" y="650" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--26" value="Add/Edit&lt;br&gt;Customer" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="70" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1150" y="70" />
+            </Array>
+            <mxPoint x="1125" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NRYGSTEQKvx6gvE7w4n--27" value="Save/Update&lt;br&gt;Customer" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1121" y="140" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1151" y="140" />
+            </Array>
+            <mxPoint x="1126" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
