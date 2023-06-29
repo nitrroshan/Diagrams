@@ -1,1 +1,226 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T13:48:27.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.0.6" etag="wXJzh-NeGFngejwNwKu0" type="github"><diagram name="Page-1" id="Qk8U7jdl9a3F_5ut9xwX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-06-29T06:15:03.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="i9nz8JiMlSs_C1zqkVwR" version="21.0.6" type="github">
+  <diagram name="Page-1" id="Qk8U7jdl9a3F_5ut9xwX">
+    <mxGraphModel dx="1915" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10.5" y="397.5" width="930.5" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="260" width="910" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="oXBFwlWRXBERuFhSUEi6-1" target="oXBFwlWRXBERuFhSUEi6-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="200" />
+              <mxPoint x="500" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-1" value="Over Loaded&amp;nbsp;&lt;br&gt;Controller" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="10" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-2" value="Normal Loaded Controller" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-3" value="Normal Loaded Controller" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="190" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-4" value="Normal Loaded Controller" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-5" value="Normal Loaded Controller" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-6" value="Low Loaded&lt;br&gt;Controller" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="460" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-7" value="Normal Loaded Controller" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="550" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-8" value="Normal Loaded Controller" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="640" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-9" value="Normal Loaded Controller" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="730" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-10" value="Low Loaded&lt;br&gt;Controller" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="820" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="oXBFwlWRXBERuFhSUEi6-13" target="oXBFwlWRXBERuFhSUEi6-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="410" />
+              <mxPoint x="20" y="410" />
+              <mxPoint x="20" y="380" />
+              <mxPoint x="22" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="36.25" y="417.5" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="400" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="47.5" y="400" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;startArrow=none;" edge="1" parent="1" source="oXBFwlWRXBERuFhSUEi6-76" target="oXBFwlWRXBERuFhSUEi6-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="417.5" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="126.25" y="402.5" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="417.5" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="402.5" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="417.5" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="402.5" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="417.5" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="400" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="402.5" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="417.5" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="402.5" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="702.5" y="417.5" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="417.5" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="872.5" y="400" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="oXBFwlWRXBERuFhSUEi6-36" target="oXBFwlWRXBERuFhSUEi6-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-20" y="449" />
+              <mxPoint x="-20" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png" vertex="1" parent="1">
+          <mxGeometry x="20" y="435" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png" vertex="1" parent="1">
+          <mxGeometry x="45" y="450" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png" vertex="1" parent="1">
+          <mxGeometry x="72.5" y="435" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="450" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="445" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png" vertex="1" parent="1">
+          <mxGeometry x="216.25" y="435" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="438" as="sourcePoint" />
+            <mxPoint x="920" y="438" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-51" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png" vertex="1" parent="1">
+          <mxGeometry x="280" y="430" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-52" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="450" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-54" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png" vertex="1" parent="1">
+          <mxGeometry x="396.25" y="430" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png" vertex="1" parent="1">
+          <mxGeometry x="560" y="450" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-57" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png" vertex="1" parent="1">
+          <mxGeometry x="602.5" y="435" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-58" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png" vertex="1" parent="1">
+          <mxGeometry x="666.25" y="450" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-59" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png" vertex="1" parent="1">
+          <mxGeometry x="730" y="430" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-60" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png" vertex="1" parent="1">
+          <mxGeometry x="780" y="450" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-61" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/cars-01-1/512/lada_2104-128.png" vertex="1" parent="1">
+          <mxGeometry x="846.25" y="445" width="27.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-62" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="400" as="sourcePoint" />
+            <mxPoint x="920" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-63" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-10" y="478" as="sourcePoint" />
+            <mxPoint x="920" y="478" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-64" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.034;entryY=0.698;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oXBFwlWRXBERuFhSUEi6-15" target="oXBFwlWRXBERuFhSUEi6-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-80" y="440" as="sourcePoint" />
+            <mxPoint x="-30" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-10" y="400" />
+              <mxPoint x="-10" y="326" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-65" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.315;entryY=0.961;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oXBFwlWRXBERuFhSUEi6-16" target="oXBFwlWRXBERuFhSUEi6-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="410" as="sourcePoint" />
+            <mxPoint x="24" y="338" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-71" value="$$\lambda_v$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="345" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-72" value="$$\lambda_v$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="365" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-73" value="$$\lambda_v$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-12" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-74" value="$$\lambda_v$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="28.75" y="365" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;endArrow=none;" edge="1" parent="1" source="oXBFwlWRXBERuFhSUEi6-17" target="oXBFwlWRXBERuFhSUEi6-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="94" y="418" as="sourcePoint" />
+            <mxPoint x="50" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oXBFwlWRXBERuFhSUEi6-76" value="$$\lambda_v$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="63.75" y="387.5" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
